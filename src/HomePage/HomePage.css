@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+label {
+    margin: 10px 0;
+    border-radius: 2px;
+}
+button {
+    margin: 10px 0;
+    border-radius: 5px;
+}

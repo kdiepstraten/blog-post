@@ -1,0 +1,20 @@
+.active {
+    border-bottom: 2px dashed darkorange;
+    color: ghostwhite;
+    text-decoration: none;
+
+}
+.default {
+    color: ghostwhite;
+    border-bottom: 1px solid black;
+    text-decoration: none;
+
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+li {
+    margin: 10px 10px;
+}

@@ -1,0 +1,17 @@
+.container {
+    max-height: 1200px;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container-post {
+    margin: 10px;
+}
+.btn-posts {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    color: steelblue;
+    background-color: blanchedalmond;
+    font-weight: bold;
+}
